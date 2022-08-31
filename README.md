@@ -1,4 +1,5 @@
 <img src="./Jessy.gif"/>
+
 # Hi there 👋, I'm Jessy Matta
 I'm a graduate mathematics student and extremely passionate about programming.</h3>
 
