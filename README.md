@@ -1,4 +1,4 @@
-<img src="./Jessy.gif"/>
+<img src="./Jessy.gif" height=400/>
 
 # Hi there 👋, I'm Jessy Matta
 I'm a graduate mathematics student and extremely passionate about programming.</h3>
