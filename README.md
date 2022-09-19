@@ -9,7 +9,6 @@ I'm a graduate mathematics student and extremely passionate about programming.</
 - 📚 I love **learning** <!-- <img align="right" src="./plane.gif" width=150px height=150px/>-->
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 📫 How to reach me **jessy.w.matta@gmail.com**
-- ⚡ Fun fact **My github is empty now but hopefully this will change 😊**
  
 
 
