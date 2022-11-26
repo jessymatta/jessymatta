@@ -1,19 +1,23 @@
 <img src="./assets/newbanner.gif"/>
 
 # <img src="./assets/name.png"/>
-I'm a software developer and mathematics graduate who thinks about coding 24/7.</h3>
 
+<pre>"First, solve the problem. Then write the code." - Thank you <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
+width="18"
+height="18"
+alt="Google"/> for the quote </h3>
+</pre>
 
 # <img src="./assets/aboutme.gif"/>
+
 - 🎲 I have a masters in **Discrete Mathematics and Algebra** specialized in theoretical graph theory
 - 📚 I love learning, running, playing the piano, and real life Java ☕ <!-- <img align="right" src="./plane.gif" width=150px height=150px/>-->
 - 📗 I’m currently learning **Spring Boot**
 - ❓ Ask me about Graph theory and Java and I can't guarantee that I'll stop talking
 - 📧 How to reach me **jessy.w.matta@gmail.com**
- 
-
 
 # <img src="./assets/languages.gif"/>
+
 <table>
   <tr>
     <td align="center" height="130" width="130">
@@ -168,6 +172,7 @@ I'm a software developer and mathematics graduate who thinks about coding 24/7.<
 <!-- <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p> -->
 
 # <img src="./assets/stats.gif"/>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jessymatta&show_icons=true&locale=en" alt="jessymatta" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jessymatta&" alt="jessymatta" /></p>
