@@ -1,4 +1,4 @@
-<img src="./assets/newbanner.gif"/>
+<img src="./assets/bannergraph.gif"/>
 
 # <img src="./assets/name.png"/>
 
