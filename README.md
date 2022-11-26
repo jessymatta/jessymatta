@@ -1,6 +1,6 @@
 <img src="./assets/newbanner.gif"/>
 
-# <img src="./assets/hithere.png"/>
+# <img src="./assets/name.png"/>
 I'm a software developer and mathematics graduate who thinks about coding 24/7.</h3>
 
 
