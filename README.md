@@ -2,10 +2,7 @@
 
 # <img src="./assets/name.png"/>
 
-<pre>"First, solve the problem. Then, write the code." - Thank you <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" 
-width="18"
-height="18"
-alt="Google"/> for the quote </h3>
+<pre>"First, solve the problem. Then, write the code." </h3>
 </pre>
 
 # <img src="./assets/aboutme.gif"/>
