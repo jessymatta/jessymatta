@@ -1,6 +1,6 @@
-<img src="./readme.gif"/>
+<img src="./assets/newbanner.gif"/>
 
-# Hi there 👋, I'm Jessy Matta
+# <img src="./assets/hithere.png"/>
 I'm a software developer and mathematics graduate who thinks about coding 24/7.</h3>
 
 
