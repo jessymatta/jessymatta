@@ -7,7 +7,7 @@
 
 # <img src="./assets/aboutme.gif"/>
 
-- 🎲 I have a masters in **Discrete Mathematics and Algebra** specialized in theoretical graph theory
+- 🎲 I have a masters in **Discrete Mathematics and Algebra** specialized in Graph Theory
 - 📚 I love learning, running, playing the piano, and real life Java ☕ <!-- <img align="right" src="./plane.gif" width=150px height=150px/>-->
 - 📗 I’m currently learning **Spring Boot**
 - ❓ Ask me about Graph theory and Java and I can't guarantee that I'll stop talking
